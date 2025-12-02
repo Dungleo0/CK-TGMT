@@ -1,0 +1,6 @@
+train: C:/My Project/Count_Product_Price_By_Barcode_Scanner/datasets/train/images
+val: C:/My Project/Count_Product_Price_By_Barcode_Scanner/datasets/valid/images
+test: C:/My Project/Count_Product_Price_By_Barcode_Scanner/datasets/test/images
+
+nc: 1
+names: ['Barcode']
